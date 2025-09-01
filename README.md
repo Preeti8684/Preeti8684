@@ -1,7 +1,7 @@
 # Hi there 👋  
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/148988584?v=4" alt="Preeti Kher" width="200" height="200" style="border-radius:50%">
+  <img src="https://avatars.githubusercontent.com/u/142022041?s=400&u=cab7ee4daddf8d455e8f2f6596a7d93efd21027f&v=4" alt="Preeti Kher" width="200" height="200" style="border-radius:50%">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=435&lines=Frontend+Developer;AI+%26+Data+Science+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
