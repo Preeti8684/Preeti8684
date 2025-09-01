@@ -1,7 +1,7 @@
 # 👩‍💻 Preeti Kher  
 
 <p align="center">
-  <img src="https://github.com/Preeti8684/Preeti8684/blob/main/profile.jpg" alt="Preeti Kher" width="180" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/142022041?v=4" alt="Preeti Kher" width="180" style="border-radius: 50%;">
 </p>  
 
 ---
