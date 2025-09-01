@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 - 🎓 Currently pursuing **B.Tech (3rd Year)**
-- 💻 Love working on **Frontend (React, JavaScript, CSS, HTML)**
+- 💻 Love working on **web developer (React, JavaScript, CSS, HTML)**
 - 🤖 Exploring **AI, Data Science, and Web Projects**
 - 📚 Always learning new technologies and tools  
 
