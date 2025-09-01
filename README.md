@@ -1,19 +1,13 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**Preeti8684/Preeti8684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/148988584?v=4" alt="Preeti Kher" width="200" height="200" style="border-radius:50%">
+</p>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=435&lines=Frontend+Developer;AI+%26+Data+Science+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
 # Hi 👋, I'm Preeti Kher  
 
 🌱 3rd Year B.Tech Student | Frontend Developer | Exploring AI & Data Science  
@@ -39,14 +33,22 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 ![Preeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preeti8684&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Preeti8684&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preeti8684&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🌐 Connect With Me
-- 📧 Email: yourmail@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/preeti-kehar-226295334?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ862k9gfTVem%2BZVpghCGQQ%3D%3D)  
-- 🖥️ [Portfolio Website](https://my-portfolio-jgsx.onrender.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/preeti-kehar-226295334)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=google-chrome)](https://my-portfolio-jgsx.onrender.com/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:yourmail@example.com)  
 
 ---
-✨ *Thanks for visiting my profile!* ✨
+
+> 💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=Preeti8684&label=Profile%20views&color=0e75b6&style=flat)
+
 
