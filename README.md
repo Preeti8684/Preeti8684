@@ -1,4 +1,4 @@
-# 👩‍💻 Hi, I'm Preeti Kher  
+# 👩‍💻 Hi, I'm Preeti
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00C2FF&width=500&lines=Frontend+Developer;AI+%26+Data+Science+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)  
 
@@ -9,7 +9,7 @@
 ## 🌟 About Me  
 - 🎓 B.Tech 4th Year Student  
 - 💻 Passionate about **Frontend Development, Java, and Data Science**  
-- 🚀 Exploring **Web Development & AI-based projects**  
+- 🚀 Exploring **FullStack - Development & AI-based projects**  
 - 🌱 Always learning and improving my skills  
 
 ---
@@ -29,6 +29,7 @@
 ---
 
 ## 📚 Currently Learning  
+- Gen Ai Tools
 - ⚛️ React.js for frontend  
 - 🌐 Express.js for backend  
 - 📊 Data Science with Python (Pandas, Scikit-learn)  
@@ -36,6 +37,7 @@
 ---
 
 ## 🚀 Projects  
+-🧠  **Calm Connect Chatbot** - Mental Health ChatBot
 - 🔐 **AuthAI** – Secure authentication system with face recognition & duplicate detection.  
 - 🎮 **Stone Paper Scissors Game** – Fun game built with JavaScript logic.  
 - 👨‍🏫 **Live Attendance System** – Real-time attendance system using modern technologies.  
@@ -63,7 +65,7 @@
 ## 📫 Contact Me  
 - ✉️ Email: [kpreeti09050@gmail.com](mailto:kpreeti09050@gmail.com)  
 - 💼 LinkedIn: [Preeti Kher](https://www.linkedin.com/in/preeti-kehar-226295334)  
-- 🌐 Portfolio: [My Portfolio](https://my-portfolio-jgsx.onrender.com/)  
+- 🌐 Portfolio: [My Portfolio](https://my-portfolio-jgsx.onrender.com/)  https://my-portfolio-jgsx.onrender.com/
 
 ---
 
